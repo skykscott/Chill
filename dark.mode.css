@@ -38,7 +38,7 @@
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece {
   border-color: transparent !important;
-  background: #fb5454 75% !important;
+  background: transparent !important;
 }
 ::-webkit-scrollbar-thumb {
   border: none !important;
